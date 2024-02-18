@@ -1,0 +1,25 @@
+{
+  "name": "shopeeupdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-machine-id": "^1.1.12",
+    "ora": "^5.4.1",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10",
+    "table": "^6.8.1",
+    "uuid": "^9.0.1",
+    "ws": "^8.16.0"
+  }
+}
