@@ -1,11 +1,10 @@
 {
-    "telegram_id": 101010101010,
+    "telegram_id": 111111111,
     "auction_title": [
         "lelang potongan 100k",
         "Ambil bunda",
         "Voucher 100k",
-        "Gratis baju",
-        "lelang harga disc 10%"
+        "Gratis baju"
     ],
     "buzzer": [
         "mau chekout 3 kok ga gratis ongkir kk 🤭",
@@ -88,5 +87,27 @@
         "tanya": "Boleh tanya-tanya seputar produk di livenya, kak. Kami siap memberikan informasi!",
         "pengiriman": "Informasi lebih lanjut tentang pengiriman ada di Etalase, kak. Yuk, dicek!",
         "return": "Kebetulan ada kebijakan return, kak. Cek di Etalase untuk info lengkapnya!"
+    },
+    "delay": {
+        "comment": {
+            "min": 180,
+            "max": 250
+        },
+        "like": {
+            "min": 5,
+            "max": 8
+        },
+        "share": {
+            "min": 10,
+            "max": 20
+        },
+        "pin_item": {
+            "min": 120,
+            "max": 180
+        },
+        "fake_buy": {
+            "min": 20,
+            "max": 50
+        }
     }
 }
